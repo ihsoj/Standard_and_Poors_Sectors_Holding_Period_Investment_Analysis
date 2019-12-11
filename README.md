@@ -34,4 +34,6 @@ Potentially buy One S&P 500 ETF like $SPY for Mid-Week holding period, but past 
 
 ![image](https://user-images.githubusercontent.com/51388767/70656286-cd300500-1c27-11ea-83ca-e588538dc73a.png)
 
+![image](https://user-images.githubusercontent.com/51388767/70656550-4b8ca700-1c28-11ea-9c7c-f8510a7839b2.png)
+
 
