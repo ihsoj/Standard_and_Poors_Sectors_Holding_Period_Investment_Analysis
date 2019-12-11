@@ -22,4 +22,8 @@ The stock tickers for the sectors are from http://www.sectorspdr.com/sectorspdr/
 
 
 ## Conclusions:
+Possible causation for Mid-Week performing better could stem from (1) traders fearing the weekend news cycle, and (2) traders desire to enjoy the weekend. 
+
+Potentially buy One S&P 500 ETF like $SPY for Mid-Week holding period, but past performance is NOT indicative of future results.
+
 
