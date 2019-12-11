@@ -3,9 +3,9 @@
 ## Project Description: 
 This project is a deep-dive statistical analysis focusing on performance of the S&P 500 (eleven individual sectors and the sector considered as a whole) beginning with year 2000. Two short-term holding periods for each sector over the multi-year time span were analyzed to determine if (1) the group as a whole or (2) any individual sector  delivered statistically higher returns.   
 
-Sectors Considered as Group: $SPY S&P 500
+(1) Sectors Considered as Group: $SPY S&P 500
 
-Individual Sectors: $XLB Materials, $XLC Communication Services, $XLE Energy, $XLF Financials, $XLI Industrials, $XLK Technology, $XLP Consumer Staples, $XLRE Real Estate, $XLU Utilities, $XLV Health Care, $XLY Consumer Discretionary
+(2) Individual Sectors: $XLB Materials, $XLC Communication Services, $XLE Energy, $XLF Financials, $XLI Industrials, $XLK Technology, $XLP Consumer Staples, $XLRE Real Estate, $XLU Utilities, $XLV Health Care, $XLY Consumer Discretionary
 
 Holding Period (A): Weekend Hug - Buy the Thursday 4pm Close and Sell the following Monday 4pm Close
 
