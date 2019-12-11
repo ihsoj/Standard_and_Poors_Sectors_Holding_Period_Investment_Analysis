@@ -21,6 +21,8 @@ The stock tickers for the sectors are from http://www.sectorspdr.com/sectorspdr/
 
 ![image](https://user-images.githubusercontent.com/51388767/70655543-70801a80-1c26-11ea-9667-1e844d6affd0.png)
 
+![image](https://user-images.githubusercontent.com/51388767/70655697-b341f280-1c26-11ea-96f3-c3836c45d1e8.png)
+
 
 
 
