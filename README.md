@@ -17,6 +17,9 @@ Holding Period (B): Mid-Week - Buy the Monday 4pm Close and Sell the following T
 ## Data: 
 The stock tickers for the sectors are from http://www.sectorspdr.com/sectorspdr/. The datasets are from https://finance.yahoo.com/. Python, Pandas, and Jupyter Notebook were utilized to work with the data and arrive at definitive conclusions for both hypotheses. Morevover, considerations were made for data smear and distribution properties to pick the appropriate test to compare the samples.
 
+![image](https://user-images.githubusercontent.com/51388767/70655363-1c753600-1c26-11ea-8af1-6286d1f9925e.png)
+
+
 
 
 
